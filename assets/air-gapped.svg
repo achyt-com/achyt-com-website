@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 640" role="img" aria-labelledby="title desc">
+<title id="title">AIR GAPPED</title><desc id="desc">Abstract technical illustration for AIR GAPPED</desc>
+<rect width="940" height="640" fill="#d9d9d4"/>
+<g fill="none" stroke="#555955" stroke-width="2"><rect x="170" y="120" width="600" height="400" rx="24"/><rect x="250" y="200" width="440" height="240" rx="12"/><path d="M350 320h240M470 200v240"/><path d="M115 320h55M770 320h55"/><circle cx="115" cy="320" r="18"/><circle cx="825" cy="320" r="18"/><path d="M145 290l-30 30 30 30M795 290l30 30-30 30"/></g>
+<rect x="48" y="48" width="160" height="8" fill="#a7ff35"/>
+<text x="48" y="590" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="3" fill="#555955">ACHYT / AIR GAPPED</text>
+</svg>
